@@ -23,8 +23,8 @@ menu.addEventListener('click',()=>{
 });
 
 
-GitHubCalendar(".calendar", "geniusuraj", { responsive: true });
-GitHubCalendar(".calendar", "geniusuraj", { responsive: true });
+GitHubCalendar(".calendar", "vaishkiyarminal001", { responsive: true });
+GitHubCalendar(".calendar", "vaishkiyarminal001", { responsive: true });
 
 
 function resume(){
