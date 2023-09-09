@@ -64,16 +64,13 @@ function transform_hamburger() {
 //! ============= resume button ==========
 document.getElementById("resume-link-1").onclick = () => {
 
-    window.open("https://drive.google.com/file/d/1eEVq34eKvxAS1ljh9ZxagUdzklC5Q1JH/view");
+    window.open("https://drive.google.com/file/d/1zPeYlOWDVSYlvMKQUz8AD8Y36Tl0RvKp/view?usp=sharing");
 }
-// document.getElementById("resume-link-2").onclick = () => {
 
-//     location.assign("https://drive.google.com/file/d/1eEVq34eKvxAS1ljh9ZxagUdzklC5Q1JH/view");
-// }
-// document.getElementById("resume-link-1").onclick = () => {
+document.getElementById("resume-link-1").onclick = () => {
 
-//     location.assign("https://drive.google.com/file/d/1eEVq34eKvxAS1ljh9ZxagUdzklC5Q1JH/view");
-// }
+    location.assign("https://drive.google.com/file/d/1zPeYlOWDVSYlvMKQUz8AD8Y36Tl0RvKp/view?usp=sharing");
+}
 
 //! ================= Fixture =================
     window.addEventListener('load',()=>{
