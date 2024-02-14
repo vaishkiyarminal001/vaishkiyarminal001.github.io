@@ -64,15 +64,15 @@ function transform_hamburger() {
 //! ============= resume button ==========
 document.getElementById("resume-link-1").onclick = () => {
 
-    window.open("https://drive.google.com/file/d/1DiV9wHswmAnSLOXV4Du0BX1JCPpd_gaH/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1cLn6b3rKmD7jggeTMKdVzRr6wWtpxrnG/view?usp=sharing");
 }
 document.getElementById("resume-link-2").onclick = () => {
 
-    location.assign("https://drive.google.com/file/d/1DiV9wHswmAnSLOXV4Du0BX1JCPpd_gaH/view?usp=sharing");
+    location.assign("https://drive.google.com/file/d/1cLn6b3rKmD7jggeTMKdVzRr6wWtpxrnG/view?usp=sharing");
 }
 document.getElementById("resume-link-1").onclick = () => {
 
-    location.assign("https://drive.google.com/file/d/1DiV9wHswmAnSLOXV4Du0BX1JCPpd_gaH/view?usp=sharing");
+    location.assign("https://drive.google.com/file/d/1cLn6b3rKmD7jggeTMKdVzRr6wWtpxrnG/view?usp=sharing");
 }
 
 //! ================= Fixture =================
