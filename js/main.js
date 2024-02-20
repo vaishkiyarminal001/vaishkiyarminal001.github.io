@@ -65,6 +65,7 @@ function transform_hamburger() {
 document.getElementById("resume-link-1").onclick = () => {
 
     window.open("https://drive.google.com/file/d/1cLn6b3rKmD7jggeTMKdVzRr6wWtpxrnG/view?usp=sharing");
+    
 }
 document.getElementById("resume-link-2").onclick = () => {
 
